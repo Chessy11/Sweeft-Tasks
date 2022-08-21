@@ -1,18 +1,4 @@
-# Sweeft-Tasks
 
-
-# Exercises
-
-Directory  **exercises** contains 3 exercises given in the task with **solutions**
-
-  *exercise_1.py*
-  
-  *exercise_2.py*
-  
-  *exercise_3.py*
-  
-  
-  
 # URL Shortener API
 
 Directory **api** contains the project, **URL Shortener API**
